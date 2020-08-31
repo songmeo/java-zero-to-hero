@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'maven'
 
-group = 'ee.taltech.itcolledge'
+group = 'ee.taltech.itcollege'
 version = '1.0-SNAPSHOT'
 
 description = """java-zero-to-hero"""
