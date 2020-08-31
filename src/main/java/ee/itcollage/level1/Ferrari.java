@@ -12,7 +12,11 @@ public class Ferrari {
 
     public void drift(){
         //todo add method body
+        System.out.println("drifting");
     }
-
     //todo create more methods
+    @Override
+    public String toString() {
+        return "Ferrari{}";
+    }
 }
